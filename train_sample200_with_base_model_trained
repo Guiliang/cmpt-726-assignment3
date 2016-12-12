@@ -1,0 +1,16 @@
+
+
+None
+Trainable weights
+Found 2998 images belonging to 3 classes.
+Found 2898 images belonging to 3 classes.
+Epoch 1/5
+225s - loss: 0.9930 - acc: 0.5089 - val_loss: 0.7100 - val_acc: 0.7396
+Epoch 2/5
+218s - loss: 0.5747 - acc: 0.8036 - val_loss: 0.4352 - val_acc: 0.8750
+Epoch 3/5
+217s - loss: 0.5107 - acc: 0.7991 - val_loss: 0.4607 - val_acc: 0.8333
+Epoch 4/5
+218s - loss: 0.5092 - acc: 0.8170 - val_loss: 0.4027 - val_acc: 0.8333
+Epoch 5/5
+221s - loss: 0.4633 - acc: 0.8304 - val_loss: 0.2946 - val_acc: 0.8958
